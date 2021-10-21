@@ -1,0 +1,38 @@
+app/
+    views/
+        home.pug
+        about.pug
+        works.pug
+        contact.pug
+    styles/
+        base/
+            _variables.scss
+            _mixins.scss
+            _base.scss
+        pages/
+            _home.scss
+            _about.scss
+            _works.scss
+            _contact.scss
+        components/
+            _header.scss
+            _footer.scss
+        main.scss
+    js/
+        main.js
+    images/
+
+module
+    gulp
+    pug
+    sass
+    autoprefixer
+    cssnano
+    rename
+    concat
+    uglify
+    imagemin
+    browserSync
+    del
+
+        
